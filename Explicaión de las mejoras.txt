@@ -1,9 +1,0 @@
-1. VALIDACIÓN DEL AÑO DE PUBLICACIÓN:
-VALIDACIÓN DEL AÑO EN LA ENTRADA: Se ha agregado una función validar_año para verificar que el año ingresado por el usuario sea un número entero positivo y menor o igual al año actual (2024).
-Manejo de la validación del año en la entrada: En la opción "Agregar libro", se verifica que el año ingresado cumpla con las condiciones especificadas antes de agregar el libro a la biblioteca.
-
-2. SUBMENÚ EN LA BÚSQUEDA DE LIBROS:
-SUBMENÚ DE OPCIONES EN LA BÚSQUEDA DE LIBROS: Cuando el usuario selecciona la opción "Buscar libro", se presenta un menú con opciones para buscar por título del libro, autor del libro, año de publicación o volver al menú principal.
-
-3. SUBMENÚ PARA MOSTRAR LIBROS:
-SUBMENÚ DE OPCIONES PARA MOSTRAR LOS LIBROS: Cuando el usuario selecciona la opción "Mostrar libros", se presenta un submenú con opciones para mostrar los libros por orden de registro, alfabéticamente por título o por año de publicación.
